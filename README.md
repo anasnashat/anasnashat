@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasnashat" alt="anasnashat" /></a> </p>
 
-- 💬 Ask me about **Laravel, Django, Web Scraping, Vue**
+- 💬 Ask me about **Laravel, Django, Web Scraping, Vue, NodeJs**
 
 - 📫 How to reach me **anas.nashat.ahmed@gmail.com**
 

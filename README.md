@@ -14,6 +14,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=anasnashat&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/anasnashat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasnashat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anas.nashat.ahmed@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-0e75b6?style=flat&logo=netlify&logoColor=white)](https://anas-nashat.netlify.app/)
 [![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat&logo=packagist&logoColor=white)](https://packagist.org/packages/anas/easy-dev)
 [![CV](https://img.shields.io/badge/📄%20My%20CV-View%20Resume-0e75b6?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12DJyVfXFXGKabVwi5xEKVo3ujlMCsbN_/view)
 
@@ -93,8 +94,8 @@ public class SoftwareEngineer {
 
 > **The code generation toolkit that saves Laravel developers hours of boilerplate.**
 
-[![Laravel EasyDev](https://img.shields.io/badge/📦%20Laravel%20EasyDev-v2.1-FF2D20?style=for-the-badge)](https://packagist.org/packages/anasnashat/laravel-easydev)
-[![Packagist Downloads](https://img.shields.io/packagist/dt/anasnashat/laravel-easydev?style=for-the-badge&color=F28D1A)](https://packagist.org/packages/anasnashat/laravel-easydev)
+[![Laravel EasyDev](https://img.shields.io/badge/📦%20Laravel%20EasyDev-v2.1-FF2D20?style=for-the-badge)](https://packagist.org/packages/anas/easy-dev)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/anas/easy-dev?style=for-the-badge&color=F28D1A)](https://packagist.org/packages/anas/easy-dev)
 [![PHPUnit Tests](https://img.shields.io/badge/PHPUnit-Tested-4CAF50?style=for-the-badge&logo=php&logoColor=white)](https://github.com/anasnashat/laravel-easydev)
 
 </div>
@@ -216,6 +217,6 @@ A database management system built entirely from **Bash scripting** — full DDL
 
 *"Complexity must be earned."*
 
-**[📄 View Full CV](https://drive.google.com/file/d/12DJyVfXFXGKabVwi5xEKVo3ujlMCsbN_/view)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/anasnashat)** &nbsp;·&nbsp; **[📧 Email](mailto:anas.nashat.ahmed@gmail.com)**
+**[📄 View Full CV](https://drive.google.com/file/d/12DJyVfXFXGKabVwi5xEKVo3ujlMCsbN_/view)** &nbsp;·&nbsp; **[🌐 Portfolio](https://anas-nashat.netlify.app/)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/anasnashat)** &nbsp;·&nbsp; **[📧 Email](mailto:anas.nashat.ahmed@gmail.com)**
 
 </div>

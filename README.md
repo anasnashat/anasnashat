@@ -1,27 +1,221 @@
-<h1 align="center">Hi 👋, I'm Anas Nashaat</h1>
-<h3 align="center">Building Scalable & Efficient Web Solutions</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasnashat&label=Profile%20views&color=0e75b6&style=flat" alt="anasnashat" /> </p>
+```
+ █████╗ ███╗   ██╗ █████╗ ███████╗    ███╗   ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ████████╗
+██╔══██╗████╗  ██║██╔══██╗██╔════╝    ████╗  ██║██╔══██╗██╔════╝██║  ██║██╔══██╗╚══██╔══╝
+███████║██╔██╗ ██║███████║███████╗    ██╔██╗ ██║███████║███████╗███████║███████║   ██║   
+██╔══██║██║╚██╗██║██╔══██║╚════██║    ██║╚██╗██║██╔══██║╚════██║██╔══██║██╔══██║   ██║   
+██║  ██║██║ ╚████║██║  ██║███████║    ██║ ╚████║██║  ██║███████║██║  ██║██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasnashat" alt="anasnashat" /></a> </p>
+### `< Software Engineer />` &nbsp;·&nbsp; `Backend Architecture` &nbsp;·&nbsp; `Open Source`
 
-- 💬 Ask me about **Laravel, Django, Web Scraping, Vue, React, NodeJs, Nest JS **
+[![Profile Views](https://komarev.com/ghpvc/?username=anasnashat&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/anasnashat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasnashat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anas.nashat.ahmed@gmail.com)
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat&logo=packagist&logoColor=white)](https://packagist.org/packages/anasnashat/laravel-easydev)
+[![CV](https://img.shields.io/badge/📄%20My%20CV-View%20Resume-0e75b6?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12DJyVfXFXGKabVwi5xEKVo3ujlMCsbN_/view)
 
-- 📫 How to reach me **anas.nashat.ahmed@gmail.com**
+</div>
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1xAY4ZEqXhAJVAGrnGtZkERIMNCR_ldN0/view?usp=sharing](https://drive.google.com/file/d/1d4VL87oVS61A8lNGZqIIdxcIHX74Jpf1/view?usp=drive_link)]
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anasnashat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasnashat" height="30" width="40" /></a>
-<a href="https://fb.com/anas.nashat.ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anas.nashat.ahmed" height="30" width="40" /></a>
-</p>
+## `whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+```java
+package anas.profile;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasnashat&show_icons=true&locale=en&layout=compact" alt="anasnashat" /></p>
+import java.util.List;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasnashat&show_icons=true&locale=en" alt="anasnashat" /></p>
+public class SoftwareEngineer {
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasnashat&" alt="anasnashat" /></p>
+    public final String name      = "Anas Nashat Ahmed";
+    public final String role      = "Full-Stack Engineer → Backend Specialist";
+    public final String company   = "Madkour (ERP Systems)";
+    public final String location  = "Cairo, Egypt 🇪🇬";
+
+    public final List<String> currently = List.of(
+        "🏗️  Architecting modular ERP systems with 5+ core modules",
+        "🔌  Building real-time services with WebSockets",
+        "📦  Maintaining Laravel EasyDev — open-source code generator",
+        "⚙️   Championing SOLID principles & Clean Architecture"
+    );
+
+    public final String philosophy = "Complexity must be earned.";
+}
+```
+
+---
+
+## 🛠 Tech Arsenal
+
+<div align="center">
+
+#### ⚙️ Backend & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+#### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📦 Featured — Laravel EasyDev
+
+<div align="center">
+
+> **The code generation toolkit that saves Laravel developers hours of boilerplate.**
+
+[![Laravel EasyDev](https://img.shields.io/badge/📦%20Laravel%20EasyDev-v2.1-FF2D20?style=for-the-badge)](https://packagist.org/packages/anasnashat/laravel-easydev)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/anasnashat/laravel-easydev?style=for-the-badge&color=F28D1A)](https://packagist.org/packages/anasnashat/laravel-easydev)
+[![PHPUnit Tests](https://img.shields.io/badge/PHPUnit-Tested-4CAF50?style=for-the-badge&logo=php&logoColor=white)](https://github.com/anasnashat/laravel-easydev)
+
+</div>
+
+```bash
+# Generate a full Clean Architecture module in ONE command
+php artisan easydev:make Post
+```
+
+| Feature | Description |
+|---|---|
+| 🏗️ **Clean Architecture Builder** | Generates Models, Controllers, Repositories, Services, DTOs, Observers & Policies |
+| 🔄 **Smart Schema Sync** | Auto-detects DB schema → writes `belongsTo`, `hasMany`, `morphs` relationships |
+| 🎨 **Interactive CLI Wizard** | Built-in wizard for a seamless developer experience |
+| ✅ **Fully Tested** | Comprehensive PHPUnit test suite for production confidence |
+
+---
+
+## 🚀 Key Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Madkour ERP System
+`Laravel` `Angular` `MySQL` `Docker` `WebSockets`
+
+Enterprise-grade ERP with **5 core modules**, State Machine-driven approval workflows, real-time notifications, PowerBI integration, and a full production infrastructure (Nginx + SSL + Docker).
+
+> *35+ migrations · Multi-tenant architecture*
+
+</td>
+<td width="50%">
+
+### ♻️ Recycle It — Environmental Platform
+`Laravel` `Vue.js`
+
+Full-stack waste management platform enabling businesses to **track and report their environmental impact** with real-time analytics and an impact dashboard backend.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💍 Jewelry Store E-commerce
+`Node.js` `Express.js` `Angular` `MongoDB` `JWT`
+
+Team Lead. Architected backend & full-stack design — secure RESTful APIs for authentication (JWT), product catalog, and order processing.
+
+</td>
+<td width="50%">
+
+### 🏨 Hotel Management System
+`Laravel` `Vue.js` `Inertia.js` `Stripe API`
+
+Multi-role reservation platform with secure **Stripe payment integration** and full room/booking lifecycle management.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 Sales & Inventory System
+`Laravel` `MySQL`
+
+Tax-compliant invoicing and inventory system that **automated reporting** and streamlined operations for a freelance client.
+
+</td>
+<td width="50%">
+
+### 🗄️ Command-Line DBMS
+`Bash` `Linux`
+
+A database management system built entirely from **Bash scripting** — full DDL & DML support with data validation. Zero dependencies.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/anasnashat">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anasnashat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anasnashat">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anasnashat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=anasnashat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
+## 🎓 Background
+
+| 🏛️ | Details |
+|---|---|
+| 📜 **Diploma** | Open Source Applications Development — **ITI**, Mansoura Branch *(Oct 2024 – Jun 2025)* |
+| 🎓 **Degree** | B.Sc. Commerce (Accounting, English) — Kafr El-Sheikh University · Grade: **Very Good** |
+| 🏅 **HackerRank** | SQL (Intermediate & Basic) · Python (Basic) |
+
+---
+
+<div align="center">
+
+### 💬 Ask me about
+`Laravel` · `NestJS` · `Node.js` · `System Design` · `Docker` · `Clean Architecture`
+
+---
+
+*"Complexity must be earned."*
+
+**[📄 View Full CV](https://drive.google.com/file/d/12DJyVfXFXGKabVwi5xEKVo3ujlMCsbN_/view)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/anasnashat)** &nbsp;·&nbsp; **[📧 Email](mailto:anas.nashat.ahmed@gmail.com)**
+
+</div>

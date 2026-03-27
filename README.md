@@ -14,7 +14,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=anasnashat&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/anasnashat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasnashat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anas.nashat.ahmed@gmail.com)
-[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat&logo=packagist&logoColor=white)](https://packagist.org/packages/anasnashat/laravel-easydev)
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat&logo=packagist&logoColor=white)](https://packagist.org/packages/anas/easy-dev)
 [![CV](https://img.shields.io/badge/📄%20My%20CV-View%20Resume-0e75b6?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12DJyVfXFXGKabVwi5xEKVo3ujlMCsbN_/view)
 
 </div>

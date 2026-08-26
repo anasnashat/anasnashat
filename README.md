@@ -211,7 +211,7 @@ A database management system built entirely from **Bash scripting** — full DDL
 <div align="center">
 
 ### 💬 Ask me about
-`Laravel` · `NestJS` · `Node.js` · `System Design` · `Docker` · `Clean Architecture`
+`Laravel` · `NestJS` · `Node.js` · `Django` · `System Design` · `Docker` · `Clean Architecture`
 
 ---
 

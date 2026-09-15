@@ -1,133 +1,80 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="405" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#050A12"/>
-      <stop offset="0.48" stop-color="#08111F"/>
-      <stop offset="1" stop-color="#0E1024"/>
+    <linearGradient id="bg" x1="34" y1="18" x2="1168" y2="409" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B12"/>
+      <stop offset="0.55" stop-color="#0A101B"/>
+      <stop offset="1" stop-color="#091326"/>
     </linearGradient>
-    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(895 145) rotate(150) scale(370 250)">
-      <stop stop-color="#22D3EE" stop-opacity="0.24"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#20C8FF"/>
+      <stop offset="0.5" stop-color="#2F6BFF"/>
+      <stop offset="1" stop-color="#2149C8"/>
+    </linearGradient>
+    <linearGradient id="line" x1="70" y1="0" x2="485" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20C8FF"/>
+      <stop offset="1" stop-color="#2F6BFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(975 180) rotate(153) scale(390 270)">
+      <stop stop-color="#2F6BFF" stop-opacity="0.24"/>
+      <stop offset="0.45" stop-color="#20C8FF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#20C8FF" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 330) rotate(-155) scale(350 180)">
-      <stop stop-color="#8B5CF6" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="accent" x1="60" y1="0" x2="480" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#22D3EE"/>
-      <stop offset="0.55" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#8B5CF6"/>
-    </linearGradient>
-    <linearGradient id="apiTop" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#67E8F9"/>
-      <stop offset="1" stop-color="#38BDF8"/>
-    </linearGradient>
-    <linearGradient id="queueTop" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#93C5FD"/>
-      <stop offset="1" stop-color="#818CF8"/>
-    </linearGradient>
-    <linearGradient id="workerTop" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#C4B5FD"/>
-      <stop offset="1" stop-color="#A78BFA"/>
-    </linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" stroke="#94A3B8" stroke-opacity="0.045"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity="0.045"/>
     </pattern>
-    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#020617" flood-opacity="0.56"/>
-    </filter>
-    <filter id="glow" x="-120%" y="-120%" width="340%" height="340%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#020617" flood-opacity="0.55"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="420" rx="32" fill="url(#bg)"/>
-  <rect width="1200" height="420" rx="32" fill="url(#grid)"/>
-  <rect width="1200" height="420" rx="32" fill="url(#cyanGlow)"/>
-  <rect width="1200" height="420" rx="32" fill="url(#violetGlow)"/>
-
-  <g opacity="0.8">
-    <circle cx="52" cy="44" r="4" fill="#22D3EE"/>
-    <circle cx="69" cy="44" r="4" fill="#334155"/>
-    <circle cx="86" cy="44" r="4" fill="#334155"/>
-  </g>
+  <rect width="1200" height="420" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="30" fill="url(#grid)"/>
+  <rect width="1200" height="420" rx="30" fill="url(#glow)"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <text x="58" y="104" fill="#64748B" font-size="14" font-weight="700" letter-spacing="3.6">BACKEND ENGINEER / BUILDER / TOOLMAKER</text>
-    <text x="58" y="164" fill="#F8FAFC" font-size="46" font-weight="800" letter-spacing="0.2">ANAS NASHAT AHMED</text>
-    <text x="59" y="205" fill="#CBD5E1" font-size="23" font-weight="600">I build systems people can reason about.</text>
-    <rect x="59" y="230" width="418" height="4" rx="2" fill="url(#accent)"/>
-    <text x="59" y="276" fill="#94A3B8" font-size="16" font-weight="500">APIs, multi-tenant SaaS, developer tools, queues, CI/CD.</text>
-    <text x="59" y="310" fill="#94A3B8" font-size="16" font-weight="500">Clean enough to change. Practical enough to ship.</text>
+    <text x="62" y="86" fill="#64748B" font-size="13" font-weight="700" letter-spacing="3.4">BACKEND ENGINEER · SYSTEMS · PRODUCTS</text>
 
-    <g font-size="12" font-weight="700" letter-spacing="1.4">
-      <rect x="58" y="342" width="95" height="30" rx="15" fill="#0E2232" stroke="#22D3EE" stroke-opacity="0.35"/>
-      <text x="81" y="362" fill="#67E8F9">LARAVEL</text>
-      <rect x="163" y="342" width="92" height="30" rx="15" fill="#141A38" stroke="#818CF8" stroke-opacity="0.35"/>
-      <text x="188" y="362" fill="#A5B4FC">NESTJS</text>
-      <rect x="265" y="342" width="117" height="30" rx="15" fill="#101D2A" stroke="#38BDF8" stroke-opacity="0.3"/>
-      <text x="285" y="362" fill="#BAE6FD">POSTGRESQL</text>
-      <rect x="392" y="342" width="86" height="30" rx="15" fill="#17152B" stroke="#A78BFA" stroke-opacity="0.32"/>
-      <text x="416" y="362" fill="#C4B5FD">DOCKER</text>
+    <text x="60" y="151" fill="#F8FAFC" font-size="50" font-weight="800" letter-spacing="-0.4">ANAS NASHAT</text>
+    <text x="61" y="191" fill="#60A5FA" font-size="21" font-weight="700">Build. Scale. Solve.</text>
+
+    <text x="61" y="243" fill="#CBD5E1" font-size="17" font-weight="500">I design backend systems that stay understandable as they grow.</text>
+    <text x="61" y="273" fill="#94A3B8" font-size="15" font-weight="500">APIs · Multi-tenant SaaS · Developer tooling · Queues · CI/CD</text>
+
+    <rect x="61" y="307" width="420" height="3" rx="1.5" fill="url(#line)"/>
+
+    <g font-size="11" font-weight="700" letter-spacing="1.25">
+      <rect x="61" y="334" width="91" height="30" rx="15" fill="#0E2232" stroke="#20C8FF" stroke-opacity="0.25"/>
+      <text x="85" y="354" fill="#67E8F9">LARAVEL</text>
+
+      <rect x="162" y="334" width="87" height="30" rx="15" fill="#101B35" stroke="#60A5FA" stroke-opacity="0.28"/>
+      <text x="185" y="354" fill="#93C5FD">NESTJS</text>
+
+      <rect x="259" y="334" width="116" height="30" rx="15" fill="#101B2C" stroke="#38BDF8" stroke-opacity="0.24"/>
+      <text x="279" y="354" fill="#BAE6FD">POSTGRESQL</text>
+
+      <rect x="385" y="334" width="87" height="30" rx="15" fill="#111827" stroke="#64748B" stroke-opacity="0.3"/>
+      <text x="408" y="354" fill="#CBD5E1">DOCKER</text>
     </g>
   </g>
 
-  <g filter="url(#shadow)">
-    <ellipse cx="930" cy="345" rx="220" ry="32" fill="#020617" fill-opacity="0.38"/>
+  <g transform="translate(704 68)" filter="url(#softShadow)">
+    <rect x="15" y="12" width="400" height="286" rx="34" fill="#FFFFFF" fill-opacity="0.025" stroke="#FFFFFF" stroke-opacity="0.07"/>
 
-    <g transform="translate(680 205)">
-      <polygon points="70,0 132,34 70,68 8,34" fill="url(#apiTop)"/>
-      <polygon points="8,34 70,68 70,138 8,104" fill="#0E7490"/>
-      <polygon points="132,34 70,68 70,138 132,104" fill="#155E75"/>
-      <path d="M70 68V138M8 34L70 68L132 34" stroke="#ECFEFF" stroke-opacity="0.2"/>
-      <text x="70" y="44" text-anchor="middle" fill="#06202A" font-family="Inter, Segoe UI, Arial" font-size="12" font-weight="800">API</text>
-    </g>
+    <!-- depth echoes -->
+    <path d="M82 229L158 60L234 229" stroke="#162235" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+    <path d="M239 229V91L329 229V91" stroke="#162235" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
 
-    <g transform="translate(820 145)">
-      <polygon points="70,0 132,34 70,68 8,34" fill="url(#queueTop)"/>
-      <polygon points="8,34 70,68 70,138 8,104" fill="#1D4ED8"/>
-      <polygon points="132,34 70,68 70,138 132,104" fill="#3730A3"/>
-      <path d="M70 68V138M8 34L70 68L132 34" stroke="#EEF2FF" stroke-opacity="0.2"/>
-      <text x="70" y="44" text-anchor="middle" fill="#172554" font-family="Inter, Segoe UI, Arial" font-size="12" font-weight="800">QUEUE</text>
-    </g>
+    <!-- AN mark -->
+    <path d="M73 220L149 51L225 220" stroke="#F8FAFC" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M123 152H234" stroke="url(#blue)" stroke-width="28" stroke-linecap="round"/>
+    <path d="M230 220V82L320 220V82" stroke="#F8FAFC" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M282 147L320 82" stroke="url(#blue)" stroke-width="22" stroke-linecap="round"/>
 
-    <g transform="translate(967 205)">
-      <polygon points="70,0 132,34 70,68 8,34" fill="url(#workerTop)"/>
-      <polygon points="8,34 70,68 70,138 8,104" fill="#6D28D9"/>
-      <polygon points="132,34 70,68 70,138 132,104" fill="#4338CA"/>
-      <path d="M70 68V138M8 34L70 68L132 34" stroke="#F5F3FF" stroke-opacity="0.2"/>
-      <text x="70" y="44" text-anchor="middle" fill="#2E1065" font-family="Inter, Segoe UI, Arial" font-size="12" font-weight="800">WORKER</text>
-    </g>
+    <circle cx="378" cy="57" r="5" fill="#20C8FF"/>
+    <circle cx="397" cy="57" r="5" fill="#2F6BFF" fill-opacity="0.45"/>
 
-    <g transform="translate(850 286)">
-      <ellipse cx="80" cy="18" rx="72" ry="18" fill="#C4B5FD"/>
-      <rect x="8" y="18" width="144" height="58" fill="#312E81"/>
-      <ellipse cx="80" cy="76" rx="72" ry="18" fill="#3730A3"/>
-      <ellipse cx="80" cy="18" rx="72" ry="18" fill="#A78BFA"/>
-      <ellipse cx="80" cy="18" rx="56" ry="11" fill="#DDD6FE" fill-opacity="0.28"/>
-      <text x="80" y="52" text-anchor="middle" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial" font-size="12" font-weight="800">DATA</text>
-    </g>
+    <text x="72" y="270" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2.8">ARCHITECTURE → AUTOMATION → DELIVERY</text>
   </g>
 
-  <g stroke-linecap="round" fill="none">
-    <path d="M807 258C833 239 848 228 865 216" stroke="#22D3EE" stroke-width="2.2" stroke-dasharray="5 7" stroke-opacity="0.7"/>
-    <path d="M948 214C977 229 991 241 1008 255" stroke="#A78BFA" stroke-width="2.2" stroke-dasharray="5 7" stroke-opacity="0.7"/>
-    <path d="M892 274C907 296 913 306 918 319" stroke="#60A5FA" stroke-width="2.2" stroke-dasharray="5 7" stroke-opacity="0.68"/>
-    <path d="M1037 339C1000 350 976 351 959 349" stroke="#8B5CF6" stroke-width="2.2" stroke-dasharray="5 7" stroke-opacity="0.62"/>
-  </g>
-  <g filter="url(#glow)">
-    <circle cx="807" cy="258" r="4" fill="#22D3EE"/>
-    <circle cx="948" cy="214" r="4" fill="#818CF8"/>
-    <circle cx="918" cy="319" r="4" fill="#60A5FA"/>
-    <circle cx="1037" cy="339" r="4" fill="#A78BFA"/>
-  </g>
-
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.4" fill="#64748B">
-    <text x="700" y="382">REQUEST</text>
-    <text x="849" y="382">ASYNC</text>
-    <text x="996" y="382">PROCESS</text>
-  </g>
-
-  <rect x="1" y="1" width="1198" height="418" rx="31" stroke="#FFFFFF" stroke-opacity="0.065" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="418" rx="29" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="2"/>
 </svg>

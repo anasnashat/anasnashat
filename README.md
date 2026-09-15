@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Anas Nashat Ahmed — Backend Software Engineer" width="100%" />
+<img src="./assets/profile-hero.svg" alt="Anas Nashat — Backend Software Engineer" width="100%" />
 
 <br/>
 
@@ -11,29 +11,31 @@
 
 </div>
 
+## `01` / What I build
+
+I’m a **backend software engineer** focused on building APIs, multi-tenant systems, developer tools, and automation that remain understandable as the product grows.
+
+I care about the parts behind the feature: **architecture, data flow, queues, permissions, reliability, deployment, and developer experience**.
+
+`PHP / Laravel` · `TypeScript / NestJS` · `Python / Django` · `PostgreSQL` · `Redis / BullMQ` · `Docker` · `GitHub Actions`
+
 <br/>
 
-## `01` / Build
-
-I’m a backend-focused engineer who likes turning **complex requirements into systems that stay understandable as they grow**. My work sits between backend architecture, developer experience, automation, and shipping real products.
-
-`Laravel` · `NestJS` · `Node.js` · `Django` · `PostgreSQL` · `Redis` · `Docker` · `GitHub Actions`
-
-<br/>
-
-## `02` / Selected work
+## `02` / Featured work
 
 <table>
 <tr>
-<td width="34%" valign="top">
+<td width="33%" valign="top">
 
 ### Laravel Easy Dev
 
-**Open-source developer tooling**
+**Laravel developer tooling**
 
-Generate APIs, architecture layers, tests, DTOs, OpenAPI docs, and AI-ready project context for Laravel projects.
+Generates production-style feature structure including APIs, requests, resources, services, repositories, policies, DTOs, tests, OpenAPI docs, modules, and AI-ready project context.
 
-[GitHub ↗](https://github.com/anasnashat/laravel-easy-dev) · [Packagist ↗](https://packagist.org/packages/anas/easy-dev)
+**PHP · Laravel · OpenAPI · Testing**
+
+[Repository ↗](https://github.com/anasnashat/laravel-easy-dev) · [Packagist ↗](https://packagist.org/packages/anas/easy-dev)
 
 </td>
 <td width="33%" valign="top">
@@ -42,20 +44,24 @@ Generate APIs, architecture layers, tests, DTOs, OpenAPI docs, and AI-ready proj
 
 **Context-aware VS Code tooling**
 
-Project-aware generation for Laravel, NestJS, Django, Express, and Node.js with customizable templates.
+A project-aware code generator for Laravel, Django, Express, NestJS, and Node.js with customizable templates and framework-aware workflows.
 
-[GitHub ↗](https://github.com/anasnashat/easy-dev-studio) · [Marketplace ↗](https://marketplace.visualstudio.com/items?itemName=AnasNashaatAhmed.easy-dev-studio)
+**TypeScript · VS Code API · DX**
+
+[Repository ↗](https://github.com/anasnashat/easy-dev-studio) · [Marketplace ↗](https://marketplace.visualstudio.com/items?itemName=AnasNashaatAhmed.easy-dev-studio)
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 ### Anvora
 
 **Multi-tenant automation platform**
 
-NestJS + PostgreSQL + Redis + BullMQ + Prisma + Socket.IO + Docker, with a Next.js dashboard.
+A full-stack messaging automation platform with authentication, API keys, real-time connection state, queues, retries, scheduling, quotas, and production-oriented deployment workflows.
 
-[GitHub ↗](https://github.com/anasnashat/anvora)
+**NestJS · Next.js · PostgreSQL · Redis · BullMQ**
+
+[Repository ↗](https://github.com/anasnashat/anvora)
 
 </td>
 </tr>
@@ -63,33 +69,42 @@ NestJS + PostgreSQL + Redis + BullMQ + Prisma + Socket.IO + Docker, with a Next.
 
 <br/>
 
-## `03` / Engineering DNA
+## `03` / Engineering focus
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-**ARCHITECTURE**
+### Systems
 
-Make the system easy to reason about.
-
-</td>
-<td width="33%" align="center">
-
-**AUTOMATION**
-
-Remove repetitive work when it can become a tool.
+Design boundaries, data models, permissions, APIs, queues, and background work so the system stays easy to reason about.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-**DELIVERY**
+### Tooling
 
-A clean design still has to survive real deployment.
+Turn repetitive engineering work into reusable tools, generators, automation, and better developer workflows.
+
+</td>
+<td width="34%" valign="top">
+
+### Delivery
+
+Treat CI/CD, Docker, debugging, observability, and deployment behavior as part of the architecture—not an afterthought.
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+## `04` / Current direction
+
+- Building production-style backend systems with **NestJS, PostgreSQL, Redis, queues, and multi-tenancy**.
+- Improving developer experience through **open-source tooling and automation**.
+- Turning real engineering problems into **portfolio-ready products and reusable systems**.
+- Continuously sharpening **system design, CI/CD, and production debugging** skills.
 
 <br/>
 
@@ -97,7 +112,7 @@ A clean design still has to survive real deployment.
 
 ### Build useful things. Keep the architecture understandable.
 
-I learn by building, breaking assumptions, debugging the failure, and improving the design.
+Open to **backend engineering opportunities**, technical collaboration, and selected freelance work.
 
 <br/>
 

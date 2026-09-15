@@ -1,59 +1,42 @@
 <div align="center">
 
-```
- █████╗ ███╗   ██╗ █████╗ ███████╗    ███╗   ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ████████╗
-██╔══██╗████╗  ██║██╔══██╗██╔════╝    ████╗  ██║██╔══██╗██╔════╝██║  ██║██╔══██╗╚══██╔══╝
-███████║██╔██╗ ██║███████║███████╗    ██╔██╗ ██║███████║███████╗███████║███████║   ██║   
-██╔══██║██║╚██╗██║██╔══██║╚════██║    ██║╚██╗██║██╔══██║╚════██║██╔══██║██╔══██║   ██║   
-██║  ██║██║ ╚████║██║  ██║███████║    ██║ ╚████║██║  ██║███████║██║  ██║██║  ██║   ██║   
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
-```
+# Anas Nashat Ahmed
 
-### `< Software Engineer />` &nbsp;·&nbsp; `Backend Architecture` &nbsp;·&nbsp; `Open Source`
+### Backend Software Engineer · Open Source Builder · Backend Architecture
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anasnashat&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/anasnashat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasnashat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anas.nashat.ahmed@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-0e75b6?style=flat&logo=netlify&logoColor=white)](https://anasnashat.github.io/my-portfolio/)
+I build backend systems, developer tools, APIs, and production-oriented services with a focus on clean architecture, maintainability, automation, and developer experience.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasnashat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=githubpages&logoColor=white)](https://anasnashat.github.io/my-portfolio/)
 [![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat&logo=packagist&logoColor=white)](https://packagist.org/packages/anas/easy-dev)
-[![CV](https://img.shields.io/badge/📄%20My%20CV-View%20Resume-0e75b6?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16gSj4HYLOxk6SmopENMOVqmJRGwAopjg/view)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anas.nashat.ahmed@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=anasnashat&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/anasnashat)
 
 </div>
 
 ---
 
-## `whoami`
+## About Me
 
-```java
-package anas.profile;
+I'm a backend-focused software engineer from Egypt working across PHP/Laravel, Node.js/NestJS, Python/Django, PostgreSQL, Redis, Docker, and CI/CD.
 
-import java.util.List;
+I enjoy turning repetitive engineering work into reusable tools, designing maintainable backend architecture, building multi-tenant systems, and solving production-style problems around APIs, queues, real-time communication, databases, deployment, and automation.
 
-public class SoftwareEngineer {
-
-    public final String name      = "Anas Nashat Ahmed";
-    public final String role      = "Full-Stack Engineer → Backend Specialist";
-    public final String company   = "Madkour (ERP Systems)";
-    public final String location  = "Cairo, Egypt 🇪🇬";
-
-    public final List<String> currently = List.of(
-        "🏗️  Architecting modular ERP systems with 5+ core modules",
-        "🔌  Building real-time services with WebSockets",
-        "📦  Maintaining Laravel EasyDev — open-source code generator",
-        "⚙️   Championing SOLID principles & Clean Architecture"
-    );
-
-    public final String philosophy = "Complexity must be earned.";
-}
+```text
+Backend Engineering   -> APIs, authentication, architecture, integrations
+Data & Messaging      -> PostgreSQL, MySQL, Redis, queues, real-time systems
+Infrastructure        -> Docker, Linux, Nginx, GitHub Actions, CI/CD
+Engineering Practices -> Clean Architecture, SOLID, modular systems, testing
+Open Source           -> Laravel Easy Dev, Easy Dev Studio
 ```
 
 ---
 
-## 🛠 Tech Arsenal
+## Core Stack
 
 <div align="center">
 
-#### ⚙️ Backend & Frameworks
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -62,114 +45,121 @@ public class SoftwareEngineer {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### ☁️ DevOps & Cloud
+### DevOps & Tooling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Frontend Experience
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
 </div>
 
 ---
 
-## 📦 Featured — Laravel EasyDev
+## Featured Open Source
 
-<div align="center">
+### Laravel Easy Dev
 
-> **The code generation toolkit that saves Laravel developers hours of boilerplate.**
+**Laravel Easy Dev** is a Laravel developer toolkit for generating production-style feature structure and reducing repetitive boilerplate.
 
-[![Laravel EasyDev](https://img.shields.io/badge/📦%20Laravel%20EasyDev-v2.1-FF2D20?style=for-the-badge)](https://packagist.org/packages/anas/easy-dev)
-[![Packagist Downloads](https://img.shields.io/packagist/dt/anas/easy-dev?style=for-the-badge&color=F28D1A)](https://packagist.org/packages/anas/easy-dev)
-[![PHPUnit Tests](https://img.shields.io/badge/PHPUnit-Tested-4CAF50?style=for-the-badge&logo=php&logoColor=white)](https://github.com/anasnashat/laravel-easydev)
-
-</div>
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/anasnashat/laravel-easy-dev)
+[![Packagist](https://img.shields.io/badge/Packagist-anas%2Feasy--dev-F28D1A?style=flat&logo=packagist&logoColor=white)](https://packagist.org/packages/anas/easy-dev)
+[![Latest Version](https://img.shields.io/packagist/v/anas/easy-dev.svg)](https://packagist.org/packages/anas/easy-dev)
+[![Downloads](https://img.shields.io/packagist/dt/anas/easy-dev.svg)](https://packagist.org/packages/anas/easy-dev)
 
 ```bash
-# Generate a full Clean Architecture module in ONE command
-php artisan easydev:make Post
+composer require anas/easy-dev:^3.1 --dev
+
+php artisan easy-dev:crud Product \
+  --api \
+  --with-repository \
+  --with-service \
+  --tests \
+  --swagger
 ```
 
-| Feature | Description |
-|---|---|
-| 🏗️ **Clean Architecture Builder** | Generates Models, Controllers, Repositories, Services, DTOs, Observers & Policies |
-| 🔄 **Smart Schema Sync** | Auto-detects DB schema → writes `belongsTo`, `hasMany`, `morphs` relationships |
-| 🎨 **Interactive CLI Wizard** | Built-in wizard for a seamless developer experience |
-| ✅ **Fully Tested** | Comprehensive PHPUnit test suite for production confidence |
+Current stable release: **v3.1.1**.
+
+Key capabilities include CRUD/API generation, optional service and repository layers, policies, DTOs, tests, OpenAPI generation, modular Clean Architecture / DDD-style structures, relationship tooling, and AI-friendly project analysis commands.
 
 ---
 
-## 🚀 Key Projects
+### Easy Dev Studio
+
+**Easy Dev Studio** brings context-aware code generation to VS Code and supports multiple backend ecosystems.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/anasnashat/easy-dev-studio)
+[![VS Code Marketplace](https://img.shields.io/badge/VS_Code-Marketplace-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=AnasNashaatAhmed.easy-dev-studio)
+
+Supported frameworks include:
+
+`Laravel` · `Django` · `Django REST Framework` · `Express` · `NestJS` · `Node.js`
+
+---
+
+## Selected Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Madkour ERP System
-`Laravel` `Angular` `MySQL` `Docker` `WebSockets`
+### Anvora
 
-Enterprise-grade ERP with **5 core modules**, State Machine-driven approval workflows, real-time notifications, PowerBI integration, and a full production infrastructure (Nginx + SSL + Docker).
+`NestJS` `Next.js` `PostgreSQL` `Redis` `BullMQ` `Socket.IO` `Prisma` `Docker`
 
-> *35+ migrations · Multi-tenant architecture*
+A full-stack, multi-tenant WhatsApp automation platform built as a production-style portfolio project.
 
-</td>
-<td width="50%">
+Highlights include API-key messaging, JWT authentication, multiple WhatsApp instances, live QR updates, queues, retries, scheduled delivery, templates, contacts, usage metrics, rate limiting, and Docker-based development.
 
-### ♻️ Recycle It — Environmental Platform
-`Laravel` `Vue.js`
-
-Full-stack waste management platform enabling businesses to **track and report their environmental impact** with real-time analytics and an impact dashboard backend.
+[View repository](https://github.com/anasnashat/anvora)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💍 Jewelry Store E-commerce
-`Node.js` `Express.js` `Angular` `MongoDB` `JWT`
+### Laravel Easy Dev
 
-Team Lead. Architected backend & full-stack design — secure RESTful APIs for authentication (JWT), product catalog, and order processing.
+`Laravel` `PHP` `Artisan` `OpenAPI` `Testing` `Clean Architecture`
 
-</td>
-<td width="50%">
+Open-source Laravel productivity toolkit focused on generation, architecture consistency, project analysis, testing, and AI-friendly workflows.
 
-### 🏨 Hotel Management System
-`Laravel` `Vue.js` `Inertia.js` `Stripe API`
-
-Multi-role reservation platform with secure **Stripe payment integration** and full room/booking lifecycle management.
+[View repository](https://github.com/anasnashat/laravel-easy-dev)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 Sales & Inventory System
-`Laravel` `MySQL`
+### Easy Dev Studio
 
-Tax-compliant invoicing and inventory system that **automated reporting** and streamlined operations for a freelance client.
+`VS Code` `TypeScript` `Developer Tools`
+
+A context-aware VS Code generator designed to support multiple backend frameworks with customizable templates and project-aware generation.
+
+[View repository](https://github.com/anasnashat/easy-dev-studio)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🗄️ Command-Line DBMS
-`Bash` `Linux`
+### Hotel Management System
 
-A database management system built entirely from **Bash scripting** — full DDL & DML support with data validation. Zero dependencies.
+`Laravel` `Vue.js` `Inertia.js`
+
+A full-stack hotel management project covering reservation workflows and application structure across backend and frontend layers.
+
+[View repository](https://github.com/anasnashat/hotel-system)
 
 </td>
 </tr>
@@ -177,46 +167,52 @@ A database management system built entirely from **Bash scripting** — full DDL
 
 ---
 
-## 📊 GitHub Stats
+## What I’m Working On
+
+- Building and improving backend developer tooling
+- Deepening NestJS and production-style backend architecture
+- Designing multi-tenant SaaS systems
+- Improving CI/CD and deployment workflows with GitHub Actions and Docker
+- Working with queues, Redis, real-time systems, and asynchronous processing
+- Improving system design, maintainability, testing, and engineering practices
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/anasnashat">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anasnashat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anasnashat">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anasnashat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=anasnashat&show_icons=true&hide_border=true&count_private=true" alt="Anas Nashat GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasnashat&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 
-<br/><br/>
+<br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=anasnashat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=anasnashat&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🎓 Background
+## Education
 
-| 🏛️ | Details |
+| | Details |
 |---|---|
-| 📜 **Diploma** | Open Source Applications Development — **ITI**, Mansoura Branch *(Oct 2024 – Jun 2025)* |
-| 🎓 **Degree** | B.Sc. Commerce (Accounting, English) — Kafr El-Sheikh University · Grade: **Very Good** |
-| 🏅 **HackerRank** | SQL (Intermediate & Basic) · Python (Basic) |
+| **ITI** | Open Source Applications Development Diploma — Mansoura Branch, Oct 2024 – Jun 2025 |
+| **Kafr El-Sheikh University** | B.Sc. Commerce, Accounting — English Section |
+| **HackerRank** | SQL Intermediate & Basic · Python Basic |
 
 ---
 
 <div align="center">
 
-### 💬 Ask me about
-`Laravel` · `NestJS` · `Node.js` · `Django` · `System Design` · `Docker` · `Clean Architecture`
+### Let’s Connect
 
----
+I’m interested in backend engineering, open source, SaaS products, developer tooling, system design, and production-oriented software development.
 
-*"Complexity must be earned."*
+[LinkedIn](https://linkedin.com/in/anasnashat) · [Portfolio](https://anasnashat.github.io/my-portfolio/) · [Packagist](https://packagist.org/packages/anas/easy-dev) · [Email](mailto:anas.nashat.ahmed@gmail.com)
 
-**[📄 View Full CV](https://drive.google.com/file/d/12DJyVfXFXGKabVwi5xEKVo3ujlMCsbN_/view)** &nbsp;·&nbsp; **[🌐 Portfolio](https://anas-nashat.netlify.app/)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/anasnashat)** &nbsp;·&nbsp; **[📧 Email](mailto:anas.nashat.ahmed@gmail.com)**
+<br/>
+
+**Laravel · NestJS · Node.js · Django · PostgreSQL · Redis · Docker · CI/CD · System Design**
 
 </div>
